@@ -6,7 +6,7 @@ import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 
 import com.dominos.dpzcodeexercise.R;
-import com.dominos.dpzcodeexercise.Utils.PizzaLoader;
+import com.dominos.dpzcodeexercise.utils.PizzaLoader;
 import com.dominos.dpzcodeexercise.adapters.PizzaAdapter;
 
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.dominos.dpzcodeexercise.Utils;
+package com.dominos.dpzcodeexercise.utils;
 
 import java.util.ArrayList;
 import java.util.List;

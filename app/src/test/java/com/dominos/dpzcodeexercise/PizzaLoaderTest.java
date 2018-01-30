@@ -1,6 +1,6 @@
 package com.dominos.dpzcodeexercise;
 
-import com.dominos.dpzcodeexercise.Utils.PizzaLoader;
+import com.dominos.dpzcodeexercise.utils.PizzaLoader;
 
 import org.junit.Test;
 
