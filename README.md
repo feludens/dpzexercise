@@ -1,4 +1,4 @@
-# dpzexercise
+# DPZ Code Exercise
 
 This project was created for the sole porpuse of testing development skills of potential candiates to join the Domino's Android Team.
 You will be given instructions of what needs to be done, however, how you complete each task is up to you.
