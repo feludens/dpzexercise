@@ -1,0 +1,64 @@
+{
+  "products" : [
+    {
+      "productName" : "ExtravaganZZa™",
+      "productDescription" : "Pepperoni, ham, Italian sausage, beef, fresh onions, fresh green peppers, fresh mushrooms and black olives, all sandwiched between two layers of cheese made with 100% real mozzarella.",
+      "productImage" : "extra.png"
+    },
+    {
+      "productName" : "MeatZZa™",
+      "productDescription" : "Pepperoni, ham, Italian sausage and beef, all sandwiched between two layers of cheese made with 100% real mozzarella.",
+      "productImage" : "meat.png"
+    },
+    {
+      "productName" : "Philly Cheese Steak™",
+      "productDescription" : "Tender slices of steak, fresh onions, fresh green peppers, fresh mushrooms, provolone and American cheese.",
+      "productImage" : "philly.png"
+    },
+    {
+      "productName" : "Pacific Veggie",
+      "productDescription" : "Roasted red peppers, fresh baby spinach, fresh onions, fresh mushrooms, tomatoes, black olives, feta, provolone, cheese made with 100% real mozzarella and sprinkled with a garlic herb seasoning.",
+      "productImage" : "veggie.png"
+    },
+    {
+      "productName" : "Honolulu Hawaiian",
+      "productDescription" : "Sliced ham, smoked bacon, pineapple, roasted red peppers, provolone and cheese made with 100% real mozzarella.",
+      "productImage" : "hawaiian.png"
+    },
+    {
+      "productName" : "Deluxe",
+      "productDescription" : "Pepperoni, Italian sausage, fresh green peppers, fresh mushrooms, fresh onions and cheese made with 100% real mozzarella.",
+      "productImage" : "deluxe.png"
+    },
+    {
+      "productName" : "Cali Chicken Bacon Ranch",
+      "productDescription" : "Grilled chicken breast, garlic Parmesan white sauce, smoked bacon, tomatoes, provolone and cheese made with 100% real mozzarella.",
+      "productImage" : "cali.png"
+    },
+    {
+      "productName" : "Buffalo Chicken",
+      "productDescription" : "Grilled chicken breast, fresh onions, provolone, American cheese, cheddar, cheese made with 100% real mozzarella and drizzled with a hot sauce.",
+      "productImage" : "buffalo.png"
+    },
+    {
+      "productName" : "Ultimate Pepperoni",
+      "productDescription" : "Two layers of pepperoni sandwiched between provolone, Parmesan-Asiago and cheese made with 100% real mozzarella then sprinkled with oregano.",
+      "productImage" : "ultimate.png"
+    },
+    {
+      "productName" : "Memphis BBQ Chicken",
+      "productDescription" : "Grilled chicken breast, BBQ sauce, fresh onions, cheddar, provolone and cheese made with 100% real mozzarella.",
+      "productImage" : "memphis.png"
+    },
+    {
+      "productName" : "Wisconsin 6 Cheese",
+      "productDescription" : "Feta, provolone, cheddar, Parmesan-Asiago, cheese made with 100% real mozzarella and sprinkled with oregano.",
+      "productImage" : "wisconsin.png"
+    },
+    {
+      "productName" : "Spinach & Feta",
+      "productDescription" : "Creamy Alfredo sauce, fresh spinach, fresh onions, feta, Parmesan-Asiago, provolone and cheese made with 100% real mozzarella.",
+      "productImage" : "spinach.png"
+    },
+  ]
+}
