@@ -31,11 +31,4 @@ public class PizzaActivity extends AppCompatActivity {
         recyclerView.setLayoutManager(mLayoutManager);
         recyclerView.setAdapter(mAdapter);
     }
-
-    //TODO 1 : Instead of the test products list, load the product data from 'products.json'
-    //TODO 2 : Create a custom view to display the complete product information (Name, Image, Description)
-    //TODO 3 : Update the PizzaAdapter to use your custom view
-    //TODO 4 : Load the products list in the Activity, but display it on a Fragment
-    //TODO 5 : Write logic to sort the list alphabetically
-    //TODO 6 : Write a test for your sorting logic
 }
